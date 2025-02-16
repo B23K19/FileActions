@@ -1,0 +1,14 @@
+C:\Users\boydd\OneDrive\Desktop\Angula\FileAction\bin\Debug\net9.0\FileAction.exe
+C:\Users\boydd\OneDrive\Desktop\Angula\FileAction\bin\Debug\net9.0\FileAction.deps.json
+C:\Users\boydd\OneDrive\Desktop\Angula\FileAction\bin\Debug\net9.0\FileAction.runtimeconfig.json
+C:\Users\boydd\OneDrive\Desktop\Angula\FileAction\bin\Debug\net9.0\FileAction.dll
+C:\Users\boydd\OneDrive\Desktop\Angula\FileAction\bin\Debug\net9.0\FileAction.pdb
+C:\Users\boydd\OneDrive\Desktop\Angula\FileAction\obj\Debug\net9.0\FileAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boydd\OneDrive\Desktop\Angula\FileAction\obj\Debug\net9.0\FileAction.AssemblyInfoInputs.cache
+C:\Users\boydd\OneDrive\Desktop\Angula\FileAction\obj\Debug\net9.0\FileAction.AssemblyInfo.cs
+C:\Users\boydd\OneDrive\Desktop\Angula\FileAction\obj\Debug\net9.0\FileAction.csproj.CoreCompileInputs.cache
+C:\Users\boydd\OneDrive\Desktop\Angula\FileAction\obj\Debug\net9.0\FileAction.dll
+C:\Users\boydd\OneDrive\Desktop\Angula\FileAction\obj\Debug\net9.0\refint\FileAction.dll
+C:\Users\boydd\OneDrive\Desktop\Angula\FileAction\obj\Debug\net9.0\FileAction.pdb
+C:\Users\boydd\OneDrive\Desktop\Angula\FileAction\obj\Debug\net9.0\FileAction.genruntimeconfig.cache
+C:\Users\boydd\OneDrive\Desktop\Angula\FileAction\obj\Debug\net9.0\ref\FileAction.dll
